@@ -1,4 +1,4 @@
-# GPPV! 🚀
+# GraphQL + babel + jest! 🚀
 
 ## 💾 Installation
 
