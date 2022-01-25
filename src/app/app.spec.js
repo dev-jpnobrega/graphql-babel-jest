@@ -17,7 +17,7 @@ describe('APP Tests', () => {
         server.destroy()
     })
 
-    test('should render to app function', done => {
+    test('checks that app is an instance of Function', done => {
         expect(app)
             .toBeInstanceOf(Function) 
         
